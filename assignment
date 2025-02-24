@@ -1,0 +1,7 @@
+function addarr(temparr){
+     temparr[2] *=2
+     console.log(temparr)
+}
+
+let temparr = [41,42, 43,44,45, 46,47]
+addarr(temparr)
